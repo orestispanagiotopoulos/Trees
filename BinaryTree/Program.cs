@@ -13,6 +13,7 @@ namespace BinaryTree
         }
     }
 
+    // Node class
     public class Node
     {
         public int Value { get; set; }
